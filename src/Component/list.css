@@ -1,0 +1,61 @@
+.container {
+    text-align: center;
+    background-color:darksalmon;
+    width: 600px;
+    margin: auto;
+    padding: 30px;
+  }
+  
+  
+  button {
+    margin-left: 5px;
+    background-color: antiquewhite;
+    font-size: 18px;
+    margin-top: 5px;
+    align-items: end;
+  }
+  
+  ul {
+    background-color: bisque;
+    width: 400px;
+    min-height: 400px;
+    margin: 20px auto;
+    padding: 30px;
+    border-radius: 20px;
+  }
+  
+  input{
+    font-size: 20px;
+    margin-right: 40px;
+  }
+  
+
+
+  li {
+    background-color: aliceblue;
+    margin:  10px auto;
+    padding: 20px auto;
+    text-align: center;
+    min-width:300px;
+    min-height: 40px;
+    border: 2px solid black;
+  }
+
+  .taskName{
+    display: inline;
+    align-items: left;
+    padding-left: 0px;
+    padding-right: 70px;
+  }
+  
+  .upper,.lower{
+    background-color: aliceblue;
+    width: 400px;
+    margin: 20px auto;
+    padding: 18px;
+    font-size: 20px;
+  }
+  select{
+    font-size: 20px;
+    margin: auto 5px;
+  }
